@@ -1,0 +1,31 @@
+En el segundo ejercicio, eres un programador Web Front-end y estas
+trabajando un proyecto institucional del colegio en el cual cada
+estudiante debe crear un blog que sera desplegado en un portal Web
+de foros.
+
+El diseño de la interfaz grafica requerida fue definida y aprobada
+por el gerente de producto en la etapa de diseño,luego en la etapa de
+implementación el programador encargado de convertir el diseño en 
+código HTML & CSS completo su tarea.
+
+Ahora tu tarea como programador es realizar las siguientes tareas:
+
+    - Definir un tema de interes (de tu preferencia!) con el cual crearás
+    un blogPost.
+
+    - Agregarle un titulo a la pestaña del blogPost.
+
+    -  Agregarle un Titulo al blogPost en el contenedor cabecera del 
+    cuerpo del documento HTML, y en el archivo de estilos CSS agregarle
+    los estilos.
+
+    - Dentro del contenedor principal del cuerpo del documento se encuentran
+    los contenedores definidos para agregarle el contendio a mostrar.
+    (texto, imagenes, audios o videos).
+
+    - Dentro del contenedor principal del documento se encuentra el contenedor
+    secundario (<section>) el cual contienene los contenedores definios para 
+    agregar el contendio complementario.
+
+    - Dentro del contenedor de pie de pagina, deberas agergarle los creditos
+    o información del desarrollador.

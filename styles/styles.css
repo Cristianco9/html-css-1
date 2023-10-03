@@ -1,0 +1,128 @@
+/* universal properties*/
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* setting rem measuare */
+html {
+    font-size: 62.5%;
+}
+
+/* limiting the maximun body wrowth */
+main {
+    max-height: 79.5vh;
+}
+
+/* navigation bar */
+.MainHeader {
+    background-color: #E80C4E;
+    position: relative;
+    top: 8rem;
+    width: 100vw;
+    height: 3vh;
+}
+
+/* The blog post tittle */
+.title {
+    font-size: 5rem;
+    width: 50vw;
+    height: 14vh;
+    position: relative;
+    top: -1rem;
+    left: 7rem;
+    border-radius: 1rem;
+}
+
+/* Main container */
+.MainContainer {
+    background-color: #E5E5E5;
+    width: 110rem;
+    height: 75vh;
+    position: relative;
+    top: 2rem;
+    left: 7rem;
+    border-radius: 1rem;
+}
+
+/* Left box */
+.Lbox {
+    background-color: #E5E5E5;
+    width: 38vw;
+    height: 55vh;
+    position: relative;
+    top: 5rem;
+    left: 7rem;
+    border-radius: 1rem;
+}
+
+/* right box */
+.Rbox {
+    background-color: #E5E5E5;
+    width: 38vw;
+    height: 55vh;
+    position: relative;
+    top: -30.5rem;
+    left: 69.2rem;
+    border-radius: 1rem;
+}
+
+/* middle decorative bar */
+.Mbar {
+    background-color: #E80C4E;
+    width: 1vw;
+    height: 55vh;
+    position: relative;
+    top: -65.9rem;
+    left: 61.2rem;
+}
+
+/* second container */
+.secondContainer {
+    background-color: #E5E5E5;
+    width: 110rem;
+    height: 75vh;
+    position: relative;
+    top: 41rem;
+    left: 7rem;
+    border-radius: 1rem;
+}
+
+/* image container */
+.image {
+    background-color: #ffffff;
+    width: 47rem;
+    height: 42.5rem;
+    position: relative;
+    top: 3rem;
+    left: 3rem;
+    border-radius: 1rem;
+}
+
+/* the button in the second container */
+.button {
+/*    font-family:  Agregale una fuente!
+    font-size: ;    Agregale un tamaño a la fuente!
+    color: ;        Agregale color al texto del boton */
+    position: relative;
+    left: 76rem;
+}
+
+/* Footer */
+.Footer {
+    background-color: #E80C4E;
+    width: 100vw;
+    height: 18vh;
+    position: relative;
+    top: 45rem;
+}
+
+/* Footer decorative line */
+.FooterLine {
+    background-color: white;
+    width: 100vw;
+    height: 1vh;
+    position: relative;
+    top: 36rem;
+}
